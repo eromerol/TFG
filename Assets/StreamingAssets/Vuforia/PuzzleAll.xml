@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QCARConfig>
+    <Tracking>
+        <ModelTarget name="Tetris_1" trackingMode="car" motionHint="adaptive" upVector="0.0 0.0 1.0" optimizeTrackingFor="default"> </ModelTarget>
+        <ModelTarget name="Tetris_2" trackingMode="car" motionHint="adaptive" upVector="0.0 0.0 1.0" optimizeTrackingFor="default"> </ModelTarget>
+        <ModelTarget name="Tetris_3" trackingMode="car" motionHint="adaptive" upVector="0.0 0.0 1.0" optimizeTrackingFor="default"> </ModelTarget>
+        <ModelTarget name="Tetris_4" trackingMode="car" motionHint="adaptive" upVector="0.0 0.0 1.0" optimizeTrackingFor="default"> </ModelTarget>
+        <ModelTarget name="Tetris_5" trackingMode="car" motionHint="adaptive" upVector="0.0 0.0 1.0" optimizeTrackingFor="default"> </ModelTarget>
+        <ModelTarget name="Tetris_6" trackingMode="car" motionHint="adaptive" upVector="0.0 0.0 1.0" optimizeTrackingFor="default"> </ModelTarget>
+        <ModelTarget name="Tetris_7" trackingMode="car" motionHint="adaptive" upVector="0.0 0.0 1.0" optimizeTrackingFor="default"> </ModelTarget>
+    </Tracking>
+    <Assembly name="Tetris_1" assemblyId="3da6714bb1b74d85aeb4605ee84597e7">
+        <Part name="Tetris_1" translation="0 0 0" rotation="AD: 0 0 1 0"></Part>
+        <EntryPoint name="(none)" trained="yes"></EntryPoint>
+    </Assembly>
+    <Assembly name="Tetris_2" assemblyId="7569ded14d544111a287891801784ded">
+        <Part name="Tetris_2" translation="0 0 0" rotation="AD: 0 0 1 0"></Part>
+        <EntryPoint name="(none)" trained="yes"></EntryPoint>
+    </Assembly>
+    <Assembly name="Tetris_3" assemblyId="ed88f75d950b46389a5242d55c6bb3a2">
+        <Part name="Tetris_3" translation="0 0 0" rotation="AD: 0 0 1 0"></Part>
+        <EntryPoint name="(none)" trained="yes"></EntryPoint>
+    </Assembly>
+    <Assembly name="Tetris_4" assemblyId="e88f6e6de05147d0b2d638dfdae0aca7">
+        <Part name="Tetris_4" translation="0 0 0" rotation="AD: 0 0 1 0"></Part>
+        <EntryPoint name="(none)" trained="yes"></EntryPoint>
+    </Assembly>
+    <Assembly name="Tetris_5" assemblyId="7ef0d02352ca464f89c917d69a11679e">
+        <Part name="Tetris_5" translation="0 0 0" rotation="AD: 0 0 1 0"></Part>
+        <EntryPoint name="(none)" trained="yes"></EntryPoint>
+    </Assembly>
+    <Assembly name="Tetris_6" assemblyId="6c8913e3c8bc4bb1ab221ba5f593bbbc">
+        <Part name="Tetris_6" translation="0 0 0" rotation="AD: 0 0 1 0"></Part>
+        <EntryPoint name="(none)" trained="yes"></EntryPoint>
+    </Assembly>
+    <Assembly name="Tetris_7" assemblyId="ceb222dd880949b586e94adde289dc3c">
+        <Part name="Tetris_7" translation="0 0 0" rotation="AD: 0 0 1 0"></Part>
+        <EntryPoint name="(none)" trained="yes"></EntryPoint>
+    </Assembly>
+    <ModelTargetDatabase name="PuzzleAll"> </ModelTargetDatabase>
+</QCARConfig>

@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb41c8335e2ca96449f3991db5fa5702, type: 3}
+  m_Name: OfficeFabricIconSet. Icon
+  m_EditorClassIdentifier: 
+  quadIcons:
+  - {fileID: 2800000, guid: f097c9a6ba6079943b684febc886cb37, type: 3}
+  - {fileID: 2800000, guid: a2958cb29720460418d5eae45b66915d, type: 3}
+  - {fileID: 2800000, guid: 51d34ca4372657c4697620bad8c16c82, type: 3}
+  - {fileID: 2800000, guid: e23aafe1368ba9e489109c8f60b4ad08, type: 3}
+  - {fileID: 2800000, guid: 1ef24eaf4a0605e4e9931a793be4d65d, type: 3}
+  - {fileID: 2800000, guid: ee5b5ba8cc169774d8a86e2bb7349037, type: 3}
+  - {fileID: 2800000, guid: ef196050bde74a34ca6a2114e9ac5032, type: 3}
+  - {fileID: 2800000, guid: d77753626abbcf745ad251e9970f8401, type: 3}
+  - {fileID: 2800000, guid: 3565f64fd14966a479c961c3ed435240, type: 3}
+  - {fileID: 2800000, guid: 7cc8cf9dda95f684da762f3d668e26ac, type: 3}
+  - {fileID: 2800000, guid: f4847cfb9d3f43d488cf19b73b463a17, type: 3}
+  - {fileID: 2800000, guid: 8652c7ac704a5984480ddc990c5c7a30, type: 3}
+  - {fileID: 2800000, guid: 23924fc291d8eb445ac933e451d6193d, type: 3}
+  - {fileID: 2800000, guid: 8c61335597836e341af82d575ce95224, type: 3}
+  - {fileID: 2800000, guid: 16025fa4ebac64e42a359a74c816ce08, type: 3}
+  - {fileID: 2800000, guid: 6f52dea6bcbca134ab5b4fb892d58540, type: 3}
+  - {fileID: 2800000, guid: 74d1bbc982aa1074ea7c208eed156cbc, type: 3}
+  - {fileID: 2800000, guid: 74b5f3563a9ffd14ea0efd2e2002ed6e, type: 3}
+  - {fileID: 2800000, guid: 193163df3ca682e4f84a1ed557647c96, type: 3}
+  - {fileID: 2800000, guid: 193163df3ca682e4f84a1ed557647c96, type: 3}
+  - {fileID: 2800000, guid: 193163df3ca682e4f84a1ed557647c96, type: 3}
+  - {fileID: 2800000, guid: 752f81505a4e0aa409ae42143a194a31, type: 3}
+  - {fileID: 2800000, guid: cb13a927758712c4e953fefce3ef6558, type: 3}
+  - {fileID: 2800000, guid: e553fef3a7536fe4d958990fad3d1ff8, type: 3}
+  - {fileID: 2800000, guid: ad47bdf145ec42040b4162314f56de29, type: 3}
+  - {fileID: 2800000, guid: 8026f62d9f0069d4b8557d1f2b1d7dc1, type: 3}
+  spriteIcons: []
+  charIconFont: {fileID: 0}
+  charIcons:
+  - Name: AppBarAdjust
+    Character: 60370
+  - Name: AppBarClose
+    Character: 59153
+  - Name: AppBarDone
+    Character: 59643
+  - Name: AppBarHide
+    Character: 59244
+  - Name: AppBarShow
+    Character: 59154
+  - Name: AppBarHome
+    Character: 60175

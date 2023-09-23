@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb41c8335e2ca96449f3991db5fa5702, type: 3}
+  m_Name: IconSet
+  m_EditorClassIdentifier: 
+  quadIcons:
+  - {fileID: 2800000, guid: 51d34ca4372657c4697620bad8c16c82, type: 3}
+  - {fileID: 2800000, guid: ef196050bde74a34ca6a2114e9ac5032, type: 3}
+  - {fileID: 2800000, guid: 3565f64fd14966a479c961c3ed435240, type: 3}
+  - {fileID: 2800000, guid: 7cc8cf9dda95f684da762f3d668e26ac, type: 3}
+  - {fileID: 2800000, guid: 74d1bbc982aa1074ea7c208eed156cbc, type: 3}
+  - {fileID: 2800000, guid: 193163df3ca682e4f84a1ed557647c96, type: 3}
+  - {fileID: 2800000, guid: 752f81505a4e0aa409ae42143a194a31, type: 3}
+  - {fileID: 2800000, guid: ee5b5ba8cc169774d8a86e2bb7349037, type: 3}
+  - {fileID: 2800000, guid: e23aafe1368ba9e489109c8f60b4ad08, type: 3}
+  - {fileID: 2800000, guid: 8652c7ac704a5984480ddc990c5c7a30, type: 3}
+  - {fileID: 2800000, guid: 1ef24eaf4a0605e4e9931a793be4d65d, type: 3}
+  - {fileID: 2800000, guid: 6968b7e8ef18e8b41bc4674cb389e549, type: 3}
+  - {fileID: 2800000, guid: d704c86ccb9bd3b4f840b144f0a42bab, type: 3}
+  - {fileID: 2800000, guid: 6c648dc09971dfe4992da8a6b9473d76, type: 3}
+  - {fileID: 2800000, guid: ca08d95daebf193408993481a07fe037, type: 3}
+  - {fileID: 2800000, guid: 85e1916afc898984f96aad0d09654701, type: 3}
+  - {fileID: 2800000, guid: 8333de76e2d09064fbc02f172558123f, type: 3}
+  - {fileID: 2800000, guid: 9496d2ab6b565c04eaa5d5bcc1f90ce9, type: 3}
+  - {fileID: 2800000, guid: 35c54fe89ca9d7f41b2a124376790db0, type: 3}
+  - {fileID: 2800000, guid: 5d784da515a6f8d4198ee66e23035d11, type: 3}
+  - {fileID: 2800000, guid: 07b8eccead918254ca4e405b163a1313, type: 3}
+  - {fileID: 2800000, guid: 353ad57ea01caae4d8b6d3d1ee76cb28, type: 3}
+  - {fileID: 2800000, guid: cb662caca953f244f9c48d0a3be6daa8, type: 3}
+  - {fileID: 2800000, guid: 3d618915c099d1c47bcfde14944befef, type: 3}
+  - {fileID: 2800000, guid: f8474b355ce188d408e83b7feeb56bd9, type: 3}
+  - {fileID: 2800000, guid: f2408442bfc748542963fe96581b0c98, type: 3}
+  - {fileID: 2800000, guid: 54dbb8f2aa1c5d642a6fafa58e709b31, type: 3}
+  spriteIcons: []
+  charIconFont: {fileID: 0}
+  charIcons:
+  - Name: AppBarAdjust
+    Character: 60370
+  - Name: AppBarClose
+    Character: 59153
+  - Name: AppBarDone
+    Character: 59643
+  - Name: AppBarHide
+    Character: 59244
+  - Name: AppBarShow
+    Character: 59154
+  - Name: AppBarHome
+    Character: 60175

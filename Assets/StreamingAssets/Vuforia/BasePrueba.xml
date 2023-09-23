@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Robot_CBR15000_14" size="0.160000 0.159796" />
+    <ImageTarget name="Robot_CBR15000_12" size="0.140000 0.140000" />
+    <ImageTarget name="Robot_CBR15000_8" size="0.100000 0.100133" />
+    <ImageTarget name="Robot_CBR15000_6" size="0.080000 0.079748" />
+    <ImageTarget name="Robot_CBR15000_5" size="0.070000 0.070232" />
+    <ImageTarget name="Robot_CBR15000_7" size="0.090000 0.090116" />
+    <ImageTarget name="Robot_CBR15000" size="0.120000 0.119830" />
+    <ImageTarget name="WorkObjectQR" size="0.150000 0.150000" />
+    <ImageTarget name="Imagen" size="0.250000 0.192969" />
+  </Tracking>
+</QCARConfig>

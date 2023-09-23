@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v5.7.9">
+        <ModelTarget name="PUZZLE_BLOCK_4" targetId="2a7cbfa822ee470e92e5c9ead10a27f1" bbox="-0.042739 -0.000042 -0.000042 0.000042 0.085563 0.020889" version="13.0" toolVersion="v5.7.9" trackingMode="car" upVector="0.0 0.0 1.0" optimizeTrackingFor="default" realisticTextures="no" />
+        <ModelTarget name="PUZZLE_BLOCK_5" targetId="9bcecd8b778842ecaa0d3d793c636ae7" bbox="-0.064048 -0.021369 -0.000031 0.000031 0.042710 0.020872" version="13.0" toolVersion="v5.7.9" trackingMode="car" upVector="0.0 0.0 1.0" optimizeTrackingFor="default" realisticTextures="no" />
+        <ModelTarget name="PUZZLE_BLOCK_6" targetId="2273c575e2d04a26ace46a2e1d5479ef" bbox="-0.064347 -0.000031 -0.000031 0.000032 0.042700 0.020872" version="13.0" toolVersion="v5.7.9" trackingMode="car" upVector="0.0 0.0 1.0" optimizeTrackingFor="default" realisticTextures="no" />
+        <ModelTarget name="PUZZLE_BLOCK_7" targetId="f51ed4b588094f37bb879391a9ecc757" bbox="-0.021369 -0.042710 -0.000031 0.042714 0.021372 0.020861" version="13.0" toolVersion="v5.7.9" trackingMode="car" upVector="0.0 0.0 1.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="PUZZLE_BLOCK_4" assemblyId="955b042461a24d78abdacb27036f256f">
+        <Part name="PUZZLE_BLOCK_4" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="PUZZLE_BLOCK_5" assemblyId="8ea6e33b9e7d4a03911c56664b560dd6">
+        <Part name="PUZZLE_BLOCK_5" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="PUZZLE_BLOCK_6" assemblyId="3259dd6ee4094bacb5f7ecf130a6b3ed">
+        <Part name="PUZZLE_BLOCK_6" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="PUZZLE_BLOCK_7" assemblyId="641c72c76510446581b8caa6ec2a8db3">
+        <Part name="PUZZLE_BLOCK_7" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <ModelTargetDatabase mtDBid="77a67cb5f71241d485aed2e5a424edb4" name="Puzzle_4567" toolVersion="v5.7.9" version="36.0" />
+</QCARInfo>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v5.7.10">
+        <ModelTarget name="Tetris_1" targetId="3efb018267e843988adedfacfa578b8f" bbox="-0.042716 -0.000041 -0.000042 0.000042 0.085600 0.020898" version="13.0" toolVersion="v5.7.10" trackingMode="car" upVector="0.0 0.0 1.0" optimizeTrackingFor="default" realisticTextures="no" />
+        <ModelTarget name="Tetris_2" targetId="beed4056a63545ada1502412471031ae" bbox="-0.064052 -0.000031 -0.000031 0.000031 0.064052 0.020875" version="13.0" toolVersion="v5.7.10" trackingMode="car" upVector="0.0 0.0 1.0" optimizeTrackingFor="default" realisticTextures="no" />
+        <ModelTarget name="Tetris_3" targetId="d61447cf83fe462e9e63c70927757671" bbox="-0.064052 -0.000031 -0.000031 0.000031 0.064052 0.020862" version="13.0" toolVersion="v5.7.10" trackingMode="car" upVector="0.0 0.0 1.0" optimizeTrackingFor="default" realisticTextures="no" />
+        <ModelTarget name="Tetris_4" targetId="5f77521d36894b9dadabaf6cadc948e7" bbox="-0.042739 -0.000042 -0.000042 0.000042 0.085563 0.020889" version="13.0" toolVersion="v5.7.10" trackingMode="car" upVector="0.0 0.0 1.0" optimizeTrackingFor="default" realisticTextures="no" />
+        <ModelTarget name="Tetris_5" targetId="c1357be464f34e71b47546227088b492" bbox="-0.064048 -0.021369 -0.000031 0.000031 0.042710 0.020868" version="13.0" toolVersion="v5.7.10" trackingMode="car" upVector="0.0 0.0 1.0" optimizeTrackingFor="default" realisticTextures="no" />
+        <ModelTarget name="Tetris_6" targetId="5329a7a57ad844398aa44343cc6418f7" bbox="-0.064347 -0.000031 -0.000031 0.000032 0.042700 0.020867" version="13.0" toolVersion="v5.7.10" trackingMode="car" upVector="0.0 0.0 1.0" optimizeTrackingFor="default" realisticTextures="no" />
+        <ModelTarget name="Tetris_7" targetId="43741ef5459a4b319d08e1b04d460e1e" bbox="-0.021369 -0.042710 -0.000031 0.042714 0.021372 0.020861" version="13.0" toolVersion="v5.7.10" trackingMode="car" upVector="0.0 0.0 1.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="Tetris_1" assemblyId="3da6714bb1b74d85aeb4605ee84597e7">
+        <Part name="Tetris_1" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="Tetris_2" assemblyId="7569ded14d544111a287891801784ded">
+        <Part name="Tetris_2" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="Tetris_3" assemblyId="ed88f75d950b46389a5242d55c6bb3a2">
+        <Part name="Tetris_3" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="Tetris_4" assemblyId="e88f6e6de05147d0b2d638dfdae0aca7">
+        <Part name="Tetris_4" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="Tetris_5" assemblyId="7ef0d02352ca464f89c917d69a11679e">
+        <Part name="Tetris_5" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="Tetris_6" assemblyId="6c8913e3c8bc4bb1ab221ba5f593bbbc">
+        <Part name="Tetris_6" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="Tetris_7" assemblyId="ceb222dd880949b586e94adde289dc3c">
+        <Part name="Tetris_7" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <ModelTargetDatabase mtDBid="f54b56f6a13d4628801d9624447288e5" name="PuzzleAll" toolVersion="v5.7.10" version="36.0" />
+</QCARInfo>
